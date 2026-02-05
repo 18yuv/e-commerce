@@ -1,0 +1,28 @@
+{
+  "name": "e-commerce",
+  "version": "1.0.0",
+  "description": "server",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/18yuv/e-commerce.git"
+  },
+  "keywords": [
+    "e-commerce"
+  ],
+  "author": "yuvraj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/18yuv/e-commerce/issues"
+  },
+  "homepage": "https://github.com/18yuv/e-commerce#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "firebase": "^12.8.0",
+    "typescript": "^5.9.3"
+  }
+}
